@@ -1,0 +1,32 @@
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h1, p {
+    font-family: sans-serif;
+}
+
+/* h4 {
+    text-transform: uppercase;
+} */
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+#blog-desc {
+    color: #314831;
+}
+
+#blog-title:hover {
+    color: orange;
+}
